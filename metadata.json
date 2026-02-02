@@ -1,0 +1,7 @@
+{
+  "name": "Farm-To-Fit Colorado Springs",
+  "description": "Premium farm-to-table meal delivery service with macro-minded nutrition and AI-powered voice ordering.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
